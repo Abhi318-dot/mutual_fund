@@ -840,3 +840,19 @@ Observations:
 - 10 unique fund houses identified.
 - 5 risk categories identified.
 - 9 SEBI category codes identifed.
+AMFI CODE VALIDATION
+
+- Total missing codes: 0
+- All AMFI codes from fund_master are present in nav_history.
+- No data integrity issues found between the two datasets.
+
+FINAL OBSERVATIONS
+
+- All 10 datasets loaded successfully.
+- Missing values and duplicates checked.
+- Fund master dataset explored successfully.
+- 10 unique fund houses identified.
+- 5 risk categories identified.
+- 9 SEBI category codes identified.
+- Live NAV data fetched successfully from MFAPI.
+- AMFI code validation passed successfully.
