@@ -1,0 +1,41 @@
+amfi_code,scheme_name,return_rank,expense_rank,sharpe_rank,alpha_rank,mdd_rank,raw_score,fund_score
+120505,ICICI Pru Midcap Fund - Regular - Growth,8.0,15.0,5.0,3.0,25.0,9.0,100.0
+120843,Kotak Flexicap Fund - Regular - Growth,11.0,22.0,2.0,5.0,13.0,9.4,98.14385150812065
+100033,HDFC Mid-Cap Opportunities Fund - Regular - Growth,10.0,17.0,7.0,6.0,20.0,10.5,93.03944315545243
+119598,SBI Small Cap Fund - Regular Plan - Growth,1.0,21.0,14.0,1.0,36.0,10.75,91.87935034802784
+148567,Mirae Asset Large Cap Fund - Regular - Growth,17.0,23.0,1.0,7.0,8.0,11.0,90.71925754060325
+149324,DSP Small Cap Fund - Regular - Growth,6.0,26.5,13.0,2.0,37.0,13.125,80.8584686774942
+149323,DSP Midcap Fund - Regular - Growth,9.0,38.0,6.0,8.0,22.0,13.7,78.19025522041764
+120504,ICICI Pru Bluechip Fund - Direct - Growth,20.0,12.0,10.0,13.0,12.0,14.099999999999998,76.33410672853829
+119094,Axis Midcap Fund - Regular - Growth,15.0,17.0,11.0,9.0,28.0,14.400000000000002,74.94199535962876
+148569,Mirae Asset Tax Saver Fund - Regular - Growth,23.0,36.5,3.0,4.0,21.0,16.025,67.40139211136892
+118632,Nippon India Large Cap Fund - Regular - Growth,21.0,24.5,8.0,11.0,23.0,16.475,65.31322505800463
+119551,SBI Bluechip Fund - Regular Plan - Growth,26.0,30.5,4.0,10.0,17.0,17.075,62.529002320185626
+101206,ABSL Frontline Equity Fund - Regular - Growth,22.0,36.5,9.0,12.0,9.0,17.625,59.976798143851504
+119552,SBI Bluechip Fund - Direct Plan - Growth,34.0,4.0,12.0,15.0,11.0,17.900000000000002,58.70069605568444
+148568,Mirae Asset Emerging Bluechip Fund - Regular - Growth,19.0,26.5,15.0,14.0,19.0,18.125,57.65661252900232
+125497,HDFC Top 100 Fund - Direct Plan - Growth,24.0,14.0,18.0,16.0,18.0,18.8,54.524361948955914
+118634,Nippon India Small Cap Fund - Regular - Growth,5.0,28.5,26.0,18.0,32.0,19.075,53.24825986078887
+120506,ICICI Pru Value Discovery Fund - Regular - Growth,18.0,19.0,20.0,20.0,27.0,19.95,49.18793503480279
+125498,HDFC Mid-Cap Opportunities Fund - Direct - Growth,14.0,10.0,27.0,26.0,29.0,20.549999999999997,46.40371229698377
+119599,SBI Small Cap Fund - Direct Plan - Growth,2.0,5.5,32.0,36.0,40.0,20.625,46.05568445475638
+118633,Nippon India Large Cap Fund - Direct - Growth,27.0,5.5,21.0,22.0,26.0,21.175,43.50348027842227
+101207,ABSL Small Cap Fund - Regular - Growth,3.0,28.5,28.0,27.0,38.0,21.375,42.575406032482604
+118635,Nippon India ETF Nifty 50 BeES,32.0,13.0,19.0,23.0,10.0,21.9,40.139211136890964
+120503,ICICI Pru Bluechip Fund - Regular - Growth,33.0,20.0,17.0,17.0,14.0,21.95,39.907192575406036
+102887,UTI Flexi Cap Fund - Regular - Growth,13.0,39.5,22.0,21.0,30.0,22.525000000000002,37.23897911832946
+102885,UTI Nifty 50 Index Fund - Regular - Growth,30.0,34.0,16.0,19.0,7.0,22.599999999999998,36.8909512761021
+119095,Axis Small Cap Fund - Regular - Growth,4.0,17.0,33.0,37.0,39.0,23.300000000000004,33.64269141531321
+120507,ICICI Pru Liquid Fund - Regular - Growth,35.0,7.0,23.0,31.0,1.0,23.6,32.250580046403705
+120842,Kotak Emerging Equity Fund - Regular - Growth,7.0,33.0,30.0,29.0,33.0,23.650000000000002,32.018561484918784
+149322,DSP Top 100 Equity Fund - Regular - Growth,25.0,30.5,25.0,24.0,16.0,24.725,27.030162412993032
+119093,Axis Bluechip Fund - Direct - Growth,29.0,8.0,29.0,28.0,31.0,25.85,21.809744779582363
+120844,Kotak Liquid Fund - Regular - Growth,37.0,3.0,34.0,32.0,2.0,26.65,18.097447795823676
+120841,Kotak Bluechip Fund - Regular - Growth,28.0,35.0,24.0,25.0,24.0,27.049999999999997,16.24129930394433
+102886,UTI Mid Cap Fund - Regular - Growth,12.0,24.5,36.0,40.0,35.0,27.775000000000002,12.877030162412987
+100025,HDFC Short Term Debt Fund - Regular - Growth,36.0,2.0,39.0,38.0,4.0,28.849999999999998,7.888631090487252
+118636,Nippon India Gilt Securities Fund - Regular - Growth,39.0,1.0,38.0,35.0,6.0,28.95,7.424593967517407
+119120,SBI Magnum Gilt Fund - Regular Plan - Growth,38.0,9.0,37.0,34.0,5.0,29.3,5.800464037122969
+100016,HDFC Top 100 Fund - Regular Plan - Growth,16.0,32.0,35.0,39.0,34.0,29.550000000000004,4.640371229698359
+119092,Axis Bluechip Fund - Regular - Growth,31.0,39.5,31.0,30.0,15.0,30.474999999999998,0.34802784222739136
+101208,ABSL Liquid Fund - Regular - Growth,40.0,11.0,40.0,33.0,3.0,30.55,0.0
