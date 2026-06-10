@@ -1,0 +1,11 @@
+1. Risk Analysis (VaR & CVaR)
+Several funds showed potential daily downside risks exceeding 2.5%, indicating higher volatility exposure. Funds 119599, 119095, and 101207 ranked among the riskiest.
+2. Sharpe Ratio Trend Analysis
+Rolling 90-day Sharpe Ratios revealed significant performance fluctuations across funds, helping identify periods of superior risk-adjusted returns.
+3. Cohort Investment Behavior
+The 2024 investor cohort contributed over ₹349 Cr of investments, vastly exceeding the 2025 cohort. However, 2025 investors showed slightly higher average investment amounts.
+4. SIP Continuity Risk
+Only about 2.2% of SIP investors maintained consistent investment patterns. The majority were classified as "At-Risk", highlighting an opportunity for retention campaigns.
+5. Portfolio Diversification
+25 of 34 funds were diversified, while only 9 were moderately concentrated. This indicates strong portfolio construction practices across most schemes.
+
